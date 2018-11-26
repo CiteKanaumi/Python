@@ -1,0 +1,50 @@
+#Python Command
+print("Comment")
+>>>Comment
+
+print("ABC")
+print("DEF")
+>>>ABC
+>>>DEF
+
+a=1
+b=10
+===============
+a=1; b=10
+print(a+b,"K")
+>>>11 K
+
+A = a + b + c
+===============
+A = a\
+  + b\
+  + c
+
+week = ['mon','tue','wed','thu',
+	'fri','sat','sun']
+
+if a == 2:
+     print("a=2")
+print("a=1")
+>>>a=1
+
+print(type(a))
+>>><class 'int'>
+
+moji = 'ABCDEF'
+print(type(moji),moji)
+>>><class 'str'> ABCDEF
+
+K = a,b,c
+print("K=",k)
+>>>K= (1,10,100)
+
+a = 3
+print("K=",k)
+>>>K= (1,10,100) #変化ない：数値として登録される
+
+if a == 2*
+   print("a=2")
+elif a == 3:
+   prinht("a=3")
+>>>a=3

@@ -1,0 +1,49 @@
+AI 機械学習
+簡単に作る
+楽な言語
+
+なぜ言語が多い？
+
+コンパイラ言語、式が高い
+
+スクリプト言語
+対話的な開発
+R：統計計算、分析
+
+Ｐython
+ライブラリを使う
+中身を理解
+(ctrl+D)
+
+
+
+        ドットインストールなどのチュートリアルビデオをひと通り真似する http://dotinstall.com/lessons
+        Python チュートリアルを読む http://www.python.jp/doc/release/tutorial/
+        Python 解説本を読む http://www.amazon.co.jp/s/field-keywords=python
+        Google 検索で引っかかった文書を読む http://www.google.co.jp/search?q=python
+
+
+git
+ソフトウェア開発、共同開発のバージョン管理ソフト
+元に戻す
+ファイルの時系列管理
+GITHUB、バックアップ
+クラウドのような物
+http://www.backlog.jp/git-guide/
+
+
+
+git add hoge.py
+git status
+git commit
+
+git clone 'url'
+git status
+git branch WorkInProg
+git branch
+git checkout WorkInProg
+
+git add ABC.py
+git push -u origin WorkInProg
+
+jupyter notebook
