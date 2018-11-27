@@ -1,2 +1,3 @@
-date,weitght,step,cal(+),cal(-),active
+date,weitght(kg),step,cal+,cal-,active(min)
 2018/11/26,73.5,14617,,3101,151
+2018/11/27,74.8,7435,,2427,27
