@@ -1,0 +1,22 @@
+# -*- coding:utf-8 -*-
+import pygame
+from pygame.locals import *
+import sys
+import pandas as pd
+import random
+
+
+def read_csv():
+    global df
+    df = pd.read_csv("list.csv")
+    df = df.as_matrix()
+
+def main():
+    print(df)
+
+
+
+if __name__ == "__main__":
+    read_csv()
+    main()
+    
